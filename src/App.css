@@ -1,0 +1,11 @@
+.style{background: rgb(204, 204, 204); width: 6px; position: absolute; top: 0px; opacity: 0; display: none; border-radius: 0px; z-index: 99; right: 0px; height: 757px;}
+.style1{width: 6px; height: 100%; position: absolute; top: 0px; display: none; border-radius: 0px; background: rgb(51, 51, 51); opacity: 0.2; z-index: 90; right: 0px;}
+
+.transitions{
+    transition: all 2s ;
+}
+.sparkline-chart-1{display: inline-block; width: 390.656px; height: 100px; vertical-align: top;}
+.flot-base{direction: ltr; position: absolute; left: 0px; top: 0px; width: 405.656px; height: 207px;}
+.flot-overlay1{direction: ltr; position: absolute; left: 0px; top: 0px; width: 405.656px; height: 207px;}
+.progress-bar1{width: 75%;}
+.flex{display: flex; justify-content: space-between;}
